@@ -14,7 +14,6 @@ Title: Calling the Empress
 Author: George O. Smith
 
 Release Date: May 6, 2022 [eBook #68000]
-[Last updated: June 10, 2022]
 
 Language: English
 
@@ -237,7 +236,7 @@ Alas, they haven't any!"
 
 "No use asking why," growled Franks. "O.K., Don, we'll go after 'em.
 I'll have the crew set up a couple of mass detectors at either end of
-the station. We'll triangulate, and calculate, and hope to hit the right
+the station. Well triangulate, and calculate, and hope to hit the right
 correction factor. We'll find them and keep them in line. You figure
 out a means of contacting them, huh?"
 
@@ -537,7 +536,7 @@ Control Room in nine hours. Complete and ready to work."
 
 "Absolutely. After we cut and polish that screwball cam, we'll have to
 check it, and then you'll have to check it. Then the silly thing will
-have to be installed and its concentricity must be checked to the last
+have to be installed and it's concentricity must be checked to the last
 wave length of cadmium light. That'll take us a couple of hours, I
 bet. The rest of the works will be ready, checked, and waiting for the
 ding-busted cam."
@@ -549,7 +548,7 @@ healthy twelve hours before we can begin to squirt our signal."
        *       *       *       *       *
 
 Twelve hours is not much in the life of a man; it is less in the life
-of a planet. The Terran standard of gravity is so small that it is
+of a planet. The Terrain standard of gravity is so small that it is
 expressed in feet per second. But when the two are coupled together as
 a measure of travel, and the standard Terran gee is applied for twelve
 hours steady, it builds up to almost three hundred miles per second,
